@@ -1,0 +1,13 @@
+.git/
+.github/
+node_modules/
+dist/
+out/
+release/
+build/
+package-lock.json
+package.json
+main.js
+README.md
+*.log
+
